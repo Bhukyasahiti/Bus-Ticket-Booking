@@ -39,10 +39,9 @@ Use the following credentials to access the booking system:
 1. Clone or download the project files.
 2. Place the folder in your web server directory:
    - XAMPP: `htdocs/`
-   - WAMP: `www/`
 3. Start Apache server.
 4. Open browser and go to:
-http://localhost/mini project/index.php
+http://localhost/miniproject/index.php
 5. Log in with the default credentials and begin booking.
 
 ---
