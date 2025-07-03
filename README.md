@@ -42,7 +42,7 @@ Use the following credentials to access the booking system:
    - WAMP: `www/`
 3. Start Apache server.
 4. Open browser and go to:
-http://localhost/your-folder-name/index.php
+http://localhost/mini project/index.php
 5. Log in with the default credentials and begin booking.
 
 ---
